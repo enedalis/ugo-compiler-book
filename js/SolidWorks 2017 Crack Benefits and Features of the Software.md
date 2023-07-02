@@ -1,0 +1,34 @@
+
+ ``` 
+# What's New in SOLIDWORKS 2017?
+ 
+SOLIDWORKS is a powerful 3D CAD software that helps engineers and designers create innovative products. SOLIDWORKS 2017 is the latest version of the software, and it offers many enhancements and improvements that can boost your productivity and creativity. Here are some of the new features and benefits of SOLIDWORKS 2017:
+ 
+- **3D Interconnect**: This feature allows you to work seamlessly with 3D models from other CAD systems, such as Autodesk Inventor, CATIA, PTC Creo, Siemens NX, and Solid Edge. You can import, open, edit, and update these models without converting them to SOLIDWORKS files, preserving their original design intent and references. You can also insert them into SOLIDWORKS assemblies and drawings as native components.
+- **Chamfer and Fillet Enhancements**: You can now create more complex and versatile chamfers and fillets with new options and controls. For example, you can create chamfers with variable distances along an edge, or fillets with variable radii across a face. You can also use the new Hold Line option to specify a reference edge or sketch for the chamfer or fillet.
+- **Advanced Hole Wizard**: You can now create custom holes with multiple features, such as counterbores, countersinks, taps, and threads, in one operation. You can define your own hole specifications, or use predefined standards from ANSI, ISO, DIN, GB, and JIS. You can also save your custom holes as favorites for future use.
+- **Magnetic Mates**: This feature simplifies the assembly of large structures, such as plant layouts, piping systems, or electrical cabinets. You can define magnetic points on components and snap them together automatically when they are close enough. You can also use the new Ground Plane option to lock components to a reference plane.
+- **Treehouse Enhancements**: Treehouse is a tool that helps you create and manage assembly structures in a graphical view. In SOLIDWORKS 2017, you can now import existing assemblies into Treehouse, or export Treehouse structures as SOLIDWORKS files. You can also use the new Configuration Publisher to create custom configurations of components based on predefined criteria.
+
+These are just some of the new features and benefits of SOLIDWORKS 2017. To learn more about what's new in SOLIDWORKS 2017, you can visit the official website[^2^], read the online help[^3^], or watch the video below:
+ 
+**Download Zip –––––>>> [https://t.co/qdklM1fZpm](https://t.co/qdklM1fZpm)**
+
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/8cHhXuUCUas" frameborder="0" allowfullscreen=""></iframe> 
+If you are interested in trying out SOLIDWORKS 2017 for yourself, you can download a free trial from the website[^1^], or contact a reseller near you for a product demonstration.
+ 
+SolidWorks 2017 SP5 Full Premium + Activator,  SolidWorks 2017 SP3 Full.iso download,  SolidWorks 2017 design software 3D,  SolidWorks 2017 solutions product development,  SolidWorks 2017 Premium simulation motion validation,  SolidWorks 2017 SSQ torrent,  SolidWorks 2017 serial number generator,  SolidWorks 2017 license key free,  SolidWorks 2017 installation guide,  SolidWorks 2017 system requirements,  SolidWorks 2017 features and benefits,  SolidWorks 2017 tutorials for beginners,  SolidWorks 2017 tips and tricks,  SolidWorks 2017 vs SolidWorks 2018 comparison,  SolidWorks 2017 update download,  SolidWorks 2017 patch fix,  SolidWorks 2017 activation code,  SolidWorks 2017 keygen online,  SolidWorks 2017 crackzsoft magnet link,  SolidWorks 2017 crack only,  SolidWorks 2017 professional edition,  SolidWorks 2017 student version,  SolidWorks 2017 trial download,  SolidWorks 2017 how to crack,  SolidWorks 2017 offline installer,  SolidWorks 2017 portable download,  SolidWorks 2017 latest version,  SolidWorks 2017 review and rating,  SolidWorks 2017 best price,  SolidWorks 2017 discount coupon code,  SolidWorks 2017 alternatives and competitors,  SolidWorks 2017 compatible with Windows 10,  SolidWorks 2017 error and solution,  SolidWorks 2017 support and help,  SolidWorks 2017 forum and community,  SolidWorks 2017 video training course,  SolidWorks 2017 ebook pdf download,  SolidWorks 2017 certification exam preparation,  SolidWorks 2017 projects and examples,  SolidWorks 2017 add-ins and plugins download,  SolidWorks 2017 toolbox library download,  SolidWorks 2017 electrical schematic design software ,  SolidWorks 2017 CAM integrated manufacturing software ,  SolidWorks 2017 PCB integrated electronics design software ,  SolidWorks 2017 visualize rendering software ,  Solidworks 2017 flow simulation CFD software ,  Solidworks 2017 plastics injection molding simulation software ,  Soliworks 2017 composer technical communication software ,  Soliworks inspection quality control software
+ ```  ``` 
+In addition to the new features mentioned above, SOLIDWORKS 2017 also offers many other enhancements and improvements in various areas, such as sketching, modeling, simulation, drawing, visualization, and collaboration. Here are some examples:
+
+- **Sketch Offset on Surface**: You can now create 2D sketches on non-planar surfaces by offsetting existing edges or faces. This can help you create complex shapes and features more easily.
+- **Wrap Feature Enhancements**: You can now wrap sketches onto any type of surface, not just cylindrical or conical ones. You can also choose between analytical or spline-based methods for wrapping, depending on the accuracy and smoothness you need.
+- **Simulation Display**: You can now view the results of your simulations directly on the model, without opening a separate window. You can also use the new Simulation Filter to isolate the components or bodies that you want to analyze.
+- **Drawing Zone Lines**: You can now use zone lines to divide your drawing sheets into sections for easier reference and annotation. You can also link the zone lines to the sheet format or the drawing view.
+- **Visualize Boost**: This is a new add-on that allows you to render your models faster and more efficiently by using a network of computers. You can also use the new Visualize Queue to manage your rendering jobs and monitor their progress.
+- **3DEXPERIENCE Integration**: You can now connect your SOLIDWORKS 2017 to the 3DEXPERIENCE platform, a cloud-based environment that offers a range of tools and services for design, engineering, collaboration, and innovation. You can access the 3DEXPERIENCE platform from within SOLIDWORKS 2017, or from any web browser.
+
+SOLIDWORKS 2017 is a comprehensive and powerful 3D CAD software that can help you design better products faster and easier than ever before. Whether you are a beginner or an expert, a hobbyist or a professional, SOLIDWORKS 2017 has something for you. To find out more about SOLIDWORKS 2017, visit the official website, or contact a reseller near you today.
+ ``` 8cf37b1e13
+ 
